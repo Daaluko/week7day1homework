@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.button {
+  color: lightgreen;
+  font-size: small;
+  background-color: black;
+  height: fit-content;
+  width: fit-content;
+  border-radius: 50%
+}
+
+.textbox {
+  height: 30px ;
+  width:200px ;
+  font-size: 20px ;
+}
+
+.newtasklabel {
+  font-size: 25px;
+}
